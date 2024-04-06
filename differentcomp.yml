@@ -2,7 +2,7 @@ name: Different Compare
 on: [push]
 jobs:
   different_compare:
-    name: Self Compare
+    name: Different Compare
     runs-on: Ubuntu-latest
     steps:
     - uses: actions/checkout@v4
