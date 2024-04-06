@@ -1,4 +1,4 @@
-name: Self Compare
+name: Different Compare
 on: [push]
 jobs:
   different_compare:
